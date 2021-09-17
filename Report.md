@@ -1,3 +1,7 @@
+Student Names:
+Asbel Fontanez
+Jiawei Liao
+
 Explanation:
 
 This repo contains results running both wifi_scan.py and wifi_plot.py. Which scans for wifi signals that show up temporarily to be able to detect activity in a given area.
